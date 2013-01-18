@@ -2,6 +2,7 @@
 <classpath>
 	<classpathentry kind="src" path="observer/src"/>
 	<classpathentry kind="src" path="ResponsibilityChain/src"/>
+	<classpathentry kind="src" path="Composite/src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="output" path="output"/>
 </classpath>
